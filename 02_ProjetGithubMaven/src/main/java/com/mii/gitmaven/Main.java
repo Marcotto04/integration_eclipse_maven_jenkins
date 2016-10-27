@@ -6,7 +6,6 @@ public class Main {
 		
 		Message msg = new Message();
 		System.out.println(msg.getMessage("Marie"));
-		
 	}
 
 }
